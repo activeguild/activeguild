@@ -1,9 +1,7 @@
-### Hi there 👋
-
-https://github-readme-stats.vercel.app/api?username=activeguild
-
 ![header](https://user-images.githubusercontent.com/39351982/140095127-c6fef683-a8f5-4be4-9032-2f469014d773.png)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=activeguild&count_private=true&theme=material-palenight)
 
+### Hi there 👋
 <!--
 **activeguild/activeguild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
