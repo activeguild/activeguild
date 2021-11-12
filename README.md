@@ -7,23 +7,6 @@
   </tbody>
 </table>
 
-🚀 npm packages
-
-<table>
-  <tbody>
-  <tr>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=activeguild&repo=vite-plugin-sass-dts&theme=material-palenight" /></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=activeguild&repo=ts-css-modules-vite-plugin&theme=material-palenight" /></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=activeguild&repo=grpc-mocky&theme=material-palenight" /></td>
-  </tr>
-  <tr>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=activeguild&repo=tsconf-checker&theme=material-palenight" /></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=activeguild&repo=classnames-generics&theme=material-palenight" /></td>
-    <td width="33%"></td>
-  </tr>
-  </tbody>
-</table>
-
 ### Hi there 👋
 <!--
 **activeguild/activeguild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
