@@ -2,7 +2,7 @@
   <tbody>
   <tr>
     <td width="50%"><img src="https://user-images.githubusercontent.com/39351982/140095127-c6fef683-a8f5-4be4-9032-2f469014d773.png" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=activeguild&count_private=true&theme=material-palenight" /></td>
+
   </tr>
   </tbody>
 </table>
